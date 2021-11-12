@@ -7,10 +7,9 @@ import pickle as pkl
 import json
 
 # pwd: '/home/juyeon/github/cholan-advanced'
-datadir = '/home/juyeon/github/cholan-advanced'
 
-doc2type = pkl.load(open(datadir + '/data/dca/doc2type.pkl', 'rb'))
-entity2type = pkl.load(open(datadir + '/data/dca/entity2type.pkl', 'rb'))
+doc2type = pkl.load(open('./data/dca/doc2type.pkl', 'rb'))
+entity2type = pkl.load(open('./data/dca/entity2type.pkl', 'rb'))
 mtype2id = {'PER':0, 'ORG':1, 'GPE':2, 'UNK':3}
 
 def judge(s1, s2):
@@ -30,7 +29,7 @@ def read_csv_file(path):
     if path.find('aida')>=0:
         flag = 1
     else:
-        types = json.load(open(datadir + '/data/dca/type/'+path.split('/')[-1].split('.')[0]+'.json', 'rb'))
+        types = json.load(open('./data/dca/type/'+path.split('/')[-1].split('.')[0]+'.json', 'rb'))
     docid = '0'
     with open(path, 'r', encoding='utf8') as f:
         for i, line in enumerate(f):
