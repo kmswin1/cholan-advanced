@@ -93,22 +93,40 @@ def create_df(sentence_list, entity_list, wiki_title_list):
             entity = ' '.join(entity + ' EntityMentionSEP' for entity in entity_list[i])
             wiki_title = ' '.join(wiki_title + ' WikiLabelSEP' for wiki_title in wiki_title_list[i])
             uri = ' '.join(qid for qid in wikidata_id)
-            d = {'Entity': entity, 'Sentence': sentence, 'Uri': uri, 'WikiTitle': wiki_title}
+            d = {'Entity': entity, 'Sentence': sentence.replace(","," "), 'Uri': uri, 'WikiTitle': wiki_title}
             df_file = df_file.append(d, ignore_index=True)
 
     df_file = df_file.fillna('NIL_ENT')
     return df_file
 
 if __name__ == '__main__':
-    in_file = "/Users/yujuyeon/Downloads/data/basic_data/test_datasets/wned-datasets/aquaint/aquaint.conll"
-    out_file = "/Users/yujuyeon/Downloads/data/basic_data/test_datasets/wned-datasets/aquaint/aquaint.txt"
+    in_file = "/home/juyeon/github/cholan-advanced/data/conll/"
+    out_file = "/home/juyeon/github/cholan-advanced/data/conll/generated"
 
-    #df_infile = pd.read_csv(in_file, sep='\t', encoding='utf-8')
-    #readfile(in_file, out_file)
 
-    df_file = readfile1(in_file)
-    df_file.to_csv(out_file , sep='\t', encoding='utf-8', index=False)
+
+    aida_train = readfile1(in_file + '/aida_train.txt')
+    aida_train.to_csv(out_file + 'aida_train.csv' , sep='\t', encoding='utf-8', index=False)
+    
+    aida_test = readfile1(in_file + '/testa_testb_aggregate_original')
+    aida_test.to_csv(out_file + 'aida_test.csv' , sep='\t', encoding='utf-8', index=False)
+    
+    msnbc = readfile1(in_file + '/msnbc.conll')
+    msnbc.to_csv(out_file + 'msnbc.csv' , sep='\t', encoding='utf-8', index=False)
+    
+    ace2004 = readfile1(in_file + '/ace2004.conll')
+    ace2004.to_csv(out_file + 'ace2004.csv' , sep='\t', encoding='utf-8', index=False)
+    
+    aquaint = readfile1(in_file + '/aquaint.conll')
+    aquaint.to_csv(out_file + 'aquaint.csv' , sep='\t', encoding='utf-8', index=False)
+    
+    wikipedia = readfile1(in_file + '/wikipedia.conll')
+    wikipedia.to_csv(out_file + 'wikipedia.csv' , sep='\t', encoding='utf-8', index=False)
+    
 
     #wikipedia_title = ["Uzbekistan national football team", "Germany"]
     #wikidata_id = get_wikidata_id(wikipedia_title)
     #print(wikipedia_title, " - ", wikidata_id)
+
+
+    
