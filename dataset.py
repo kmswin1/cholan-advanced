@@ -34,9 +34,8 @@ def read_csv_file(path):
     with open(path, 'r', encoding='utf8') as f:
         for i, line in enumerate(f):
             comps = line.strip().split('\t')
-            doc_name = comps[0]
-
-            # doc_name = comps[0] + ' ' + comps[1]
+            # doc_name = comps[0]
+            doc_name = comps[0] + ' ' + comps[1]
             mention = comps[2]
             mtype = [0,0,0,0]
             if flag == 1:
