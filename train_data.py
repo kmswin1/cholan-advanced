@@ -126,3 +126,5 @@ if __name__ == '__main__':
     #wikipedia_title = ["Uzbekistan national football team", "Germany"]
     #wikidata_id = get_wikidata_id(wikipedia_title)
     #print(wikipedia_title, " - ", wikidata_id)
+    
+    
