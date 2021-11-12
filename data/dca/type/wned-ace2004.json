@@ -1,0 +1,2811 @@
+{
+    "sample_0": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Bandar Seri Begawan 11-15",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - The United States today Wednesday deemed the order issued by Palestinian President Yasser Arafat for a ceasefire in territories under Palestinian Authority"
+    },
+    "sample_1": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - The United States today Wednesday deemed the order issued by Palestinian President Yasser Arafat for a ceasefire in territories under Palestinian Authority"
+    },
+    "sample_2": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "The United States today",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - The United States today Wednesday deemed the order issued by Palestinian President Yasser Arafat for a ceasefire in territories under Palestinian Authority"
+    },
+    "sample_3": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the White House 's",
+        "sentence": "James Stewart , the White House 's spokesman in Bandar Seri Begawan , the capital of the Sultanate of Brunei which American President Bill Clinton is visiting , said \""
+    },
+    "sample_4": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the Palestinian Superior Security Council led",
+        "sentence": "A high-level Palestinian source said today that the Palestinian Superior Security Council led by President Yasser Arafat issued orders to stop shooting inside area \" A \" under Palestinian control"
+    },
+    "sample_5": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "From NPR news in",
+        "sentence": "From NPR news in Washington , I 'm Corey Flintoff ."
+    },
+    "sample_6": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Washington ,",
+        "sentence": "From NPR news in Washington , I 'm Corey Flintoff ."
+    },
+    "sample_7": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "from Miami Dade County that",
+        "sentence": "Corey judge N. Sander Sauls is deciding whether to order a recount as you said of those ballots , 9000 or more actually from Miami Dade County that apparently were"
+    },
+    "sample_8": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "the Democrats in",
+        "sentence": "Corey judge N. Sander Sauls is deciding whether to order a recount as you said of those ballots , 9000 or more actually from Miami Dade County that apparently were"
+    },
+    "sample_9": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "from Palm Beach County that",
+        "sentence": "Corey judge N. Sander Sauls is deciding whether to order a recount as you said of those ballots , 9000 or more actually from Miami Dade County that apparently were"
+    },
+    "sample_10": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "to Al Gore 's",
+        "sentence": "Judge Sauls is deciding whether to count those ballots and go through them and perhaps add some votes to Al Gore 's final total , which is exactly what the"
+    },
+    "sample_11": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Washington State is",
+        "sentence": "As the battle over votes goes on in Florida , Washington State is in the middle of recounting the votes cast in its very tight US Senate race ."
+    },
+    "sample_12": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Seattle .",
+        "sentence": "Jennifer Nesan reports from member station KPLU in Seattle ."
+    },
+    "sample_13": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Baghdad 11-15",
+        "sentence": "Baghdad 11-15 ( AFP ) - The head of the French Interests Section in Baghdad , Ambassador Andre <UNK> , today Wednesday welcomed Iraq 's decision to deal in euros"
+    },
+    "sample_14": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Baghdad 11-15 ( AFP ) - The head of the French Interests Section in Baghdad , Ambassador Andre <UNK> , today Wednesday welcomed Iraq 's decision to deal in euros"
+    },
+    "sample_15": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "welcomed Iraq 's",
+        "sentence": "Baghdad 11-15 ( AFP ) - The head of the French Interests Section in Baghdad , Ambassador Andre <UNK> , today Wednesday welcomed Iraq 's decision to deal in euros"
+    },
+    "sample_16": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Tallahassee (",
+        "sentence": "Tallahassee ( United States ) 11-15 ( AFP ) - The Supreme Court in Florida today Wednesday refused the application by the state 's authorities to stop the new hand"
+    },
+    "sample_17": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "( United States )",
+        "sentence": "Tallahassee ( United States ) 11-15 ( AFP ) - The Supreme Court in Florida today Wednesday refused the application by the state 's authorities to stop the new hand"
+    },
+    "sample_18": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Tallahassee ( United States ) 11-15 ( AFP ) - The Supreme Court in Florida today Wednesday refused the application by the state 's authorities to stop the new hand"
+    },
+    "sample_19": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "The Supreme Court in",
+        "sentence": "Tallahassee ( United States ) 11-15 ( AFP ) - The Supreme Court in Florida today Wednesday refused the application by the state 's authorities to stop the new hand"
+    },
+    "sample_20": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Florida today",
+        "sentence": "Tallahassee ( United States ) 11-15 ( AFP ) - The Supreme Court in Florida today Wednesday refused the application by the state 's authorities to stop the new hand"
+    },
+    "sample_21": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Beirut 8-15",
+        "sentence": "Beirut 8-15 ( AFP ) - Lebanon has asked the international peacekeeping force operating in the south to investigate reports indicating that Israel is penetrating the shared border between the"
+    },
+    "sample_22": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Beirut 8-15 ( AFP ) - Lebanon has asked the international peacekeeping force operating in the south to investigate reports indicating that Israel is penetrating the shared border between the"
+    },
+    "sample_23": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "- Lebanon has",
+        "sentence": "Beirut 8-15 ( AFP ) - Lebanon has asked the international peacekeeping force operating in the south to investigate reports indicating that Israel is penetrating the shared border between the"
+    },
+    "sample_24": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "that Israel is",
+        "sentence": "Beirut 8-15 ( AFP ) - Lebanon has asked the international peacekeeping force operating in the south to investigate reports indicating that Israel is penetrating the shared border between the"
+    },
+    "sample_25": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "US navy now",
+        "sentence": "The US navy now says the USS Cole was being refueled when an explosion ripped through it in Yemen last week , killing 17 ."
+    },
+    "sample_26": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "the USS Cole was",
+        "sentence": "The US navy now says the USS Cole was being refueled when an explosion ripped through it in Yemen last week , killing 17 ."
+    },
+    "sample_27": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Yemen last",
+        "sentence": "The US navy now says the USS Cole was being refueled when an explosion ripped through it in Yemen last week , killing 17 ."
+    },
+    "sample_28": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Jerusalem 11-15",
+        "sentence": "Jerusalem 11-15 ( AFP ) - Official Israeli radio reported that the lesser security cabinet which met this evening Wednesday has made a series of practical decisions pointing to its"
+    },
+    "sample_29": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Jerusalem 11-15 ( AFP ) - Official Israeli radio reported that the lesser security cabinet which met this evening Wednesday has made a series of practical decisions pointing to its"
+    },
+    "sample_30": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the West Bank on",
+        "sentence": "Israeli security forces arrested 15 Fatah officials in the West Bank on the night of Tuesday to Wednesday ."
+    },
+    "sample_31": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "by Yasser Arafat said",
+        "sentence": "The Palestinian faction headed by Yasser Arafat said today that , it will avenge the deaths of four of its members who were killed today by Israeli soldiers ."
+    },
+    "sample_32": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Corey Flintoff ,",
+        "sentence": "Corey Flintoff , NPR news , Washington ."
+    },
+    "sample_33": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": ", NPR news ,",
+        "sentence": "Corey Flintoff , NPR news , Washington ."
+    },
+    "sample_34": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Washington .",
+        "sentence": "Corey Flintoff , NPR news , Washington ."
+    },
+    "sample_35": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Gaza 11-15",
+        "sentence": "Gaza 11-15 ( AFP ) - A high-level Palestinian source said today Wednesday that the Palestinian Superior Security Council led by President Yasser Arafat issued orders to stop shooting inside"
+    },
+    "sample_36": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Gaza 11-15 ( AFP ) - A high-level Palestinian source said today Wednesday that the Palestinian Superior Security Council led by President Yasser Arafat issued orders to stop shooting inside"
+    },
+    "sample_37": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Jerusalem 7-15",
+        "sentence": "Jerusalem 7-15 ( AFP ) - A high level Israeli army official has said today Saturday that Israel believes Iran is set to begin acquiring nuclear capability for military purposes"
+    },
+    "sample_38": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Jerusalem 7-15 ( AFP ) - A high level Israeli army official has said today Saturday that Israel believes Iran is set to begin acquiring nuclear capability for military purposes"
+    },
+    "sample_39": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "believes Iran is",
+        "sentence": "Jerusalem 7-15 ( AFP ) - A high level Israeli army official has said today Saturday that Israel believes Iran is set to begin acquiring nuclear capability for military purposes"
+    },
+    "sample_40": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "without Moscow 's",
+        "sentence": "The official further said : \" Iran is not capable of developing a nuclear program without Moscow 's help . \""
+    },
+    "sample_41": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "Iranian Ministry of Defense told",
+        "sentence": "An official at the Iranian Ministry of Defense told Tehran Radio that the \" Shahab 3 defense missile was tested a second time to ensure it conforms to international standards"
+    },
+    "sample_42": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Beirut 10-15",
+        "sentence": "Beirut 10-15 ( AFP ) - The Saudi Soccer Federation sacked the team 's Czech coach Milan Machala from his post today Sunday and appointed his assistant , Nasser Jawhar"
+    },
+    "sample_43": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Beirut 10-15 ( AFP ) - The Saudi Soccer Federation sacked the team 's Czech coach Milan Machala from his post today Sunday and appointed his assistant , Nasser Jawhar"
+    },
+    "sample_44": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "by Lebanon until",
+        "sentence": "Machala is the first victim of the 12th Asian Nations Cup finals hosted by Lebanon until this October 29 as the Japanese blow was fatal , especially since the Saudi"
+    },
+    "sample_45": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Emirates in",
+        "sentence": "Machala is the first victim of the 12th Asian Nations Cup finals hosted by Lebanon until this October 29 as the Japanese blow was fatal , especially since the Saudi"
+    },
+    "sample_46": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "by Mexico in",
+        "sentence": "Machala took over training the Saudi team in February 1999 and led it in the Continents Championship hosted by Mexico in July of that year ."
+    },
+    "sample_47": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Bangkok in",
+        "sentence": "Machala is considered one of the best-known coaches in the Gulf region and has achieved remarkable results with the Kuwaiti team , which he led to win the Gulf Cup"
+    },
+    "sample_48": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": ", VOA News .",
+        "sentence": "I am David Coler , VOA News ."
+    },
+    "sample_49": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in America and",
+        "sentence": "The promotion of free enterprise first in America and then abroad will be our first priority ."
+    },
+    "sample_50": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "of Texas .",
+        "sentence": "Mr. Bush says he will step down Thursday as Governor of Texas ."
+    },
+    "sample_51": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Xinhua News Agency ,",
+        "sentence": "Xinhua News Agency , Shanghai , April 3rd , by reporter <UNK> Zhou Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui"
+    },
+    "sample_52": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Shanghai ,",
+        "sentence": "Xinhua News Agency , Shanghai , April 3rd , by reporter <UNK> Zhou Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui"
+    },
+    "sample_53": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": ", HSBC has",
+        "sentence": "Xinhua News Agency , Shanghai , April 3rd , by reporter <UNK> Zhou Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui"
+    },
+    "sample_54": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the China Shipping Mansion in",
+        "sentence": "Xinhua News Agency , Shanghai , April 3rd , by reporter <UNK> Zhou Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui"
+    },
+    "sample_55": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Pudong Lujiazui financial trading district ,",
+        "sentence": "Xinhua News Agency , Shanghai , April 3rd , by reporter <UNK> Zhou Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui"
+    },
+    "sample_56": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "to Pudong .",
+        "sentence": "Xinhua News Agency , Shanghai , April 3rd , by reporter <UNK> Zhou Recently , HSBC has moved its Shanghai branch to the China Shipping Mansion in the Pudong Lujiazui"
+    },
+    "sample_57": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the US 's",
+        "sentence": "They are the US 's Citibank , Hong Kong 's HSBC , Japan 's Tokyo Mitsubishi Bank , Japan 's Industrial Bank , the Shanghai Branch of the Standard and"
+    },
+    "sample_58": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "'s Citibank ,",
+        "sentence": "They are the US 's Citibank , Hong Kong 's HSBC , Japan 's Tokyo Mitsubishi Bank , Japan 's Industrial Bank , the Shanghai Branch of the Standard and"
+    },
+    "sample_59": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Hong Kong 's",
+        "sentence": "They are the US 's Citibank , Hong Kong 's HSBC , Japan 's Tokyo Mitsubishi Bank , Japan 's Industrial Bank , the Shanghai Branch of the Standard and"
+    },
+    "sample_60": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Japan 's",
+        "sentence": "They are the US 's Citibank , Hong Kong 's HSBC , Japan 's Tokyo Mitsubishi Bank , Japan 's Industrial Bank , the Shanghai Branch of the Standard and"
+    },
+    "sample_61": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "'s Tokyo Mitsubishi Bank ,",
+        "sentence": "They are the US 's Citibank , Hong Kong 's HSBC , Japan 's Tokyo Mitsubishi Bank , Japan 's Industrial Bank , the Shanghai Branch of the Standard and"
+    },
+    "sample_62": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "( Lebanon )",
+        "sentence": "Albus ( Lebanon ) 11-15 ( AFP ) - Thousands of Palestinian refugees in Lebanon commemorated in their camps today Wednesday the twelfth anniversary of the symbolic announcement of independence"
+    },
+    "sample_63": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Albus ( Lebanon ) 11-15 ( AFP ) - Thousands of Palestinian refugees in Lebanon commemorated in their camps today Wednesday the twelfth anniversary of the symbolic announcement of independence"
+    },
+    "sample_64": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "the Palestinian National Council in",
+        "sentence": "Albus ( Lebanon ) 11-15 ( AFP ) - Thousands of Palestinian refugees in Lebanon commemorated in their camps today Wednesday the twelfth anniversary of the symbolic announcement of independence"
+    },
+    "sample_65": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Algeria in",
+        "sentence": "Albus ( Lebanon ) 11-15 ( AFP ) - Thousands of Palestinian refugees in Lebanon commemorated in their camps today Wednesday the twelfth anniversary of the symbolic announcement of independence"
+    },
+    "sample_66": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "near Souer (",
+        "sentence": "Around five thousand Palestinians form the Albus Camp near Souer ( 83 km south of Beirut ) gathered and followed a march by children dressed in military clothing who held"
+    },
+    "sample_67": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "of Beirut )",
+        "sentence": "Around five thousand Palestinians form the Albus Camp near Souer ( 83 km south of Beirut ) gathered and followed a march by children dressed in military clothing who held"
+    },
+    "sample_68": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "of Mohamed al-Dura ,",
+        "sentence": "Around five thousand Palestinians form the Albus Camp near Souer ( 83 km south of Beirut ) gathered and followed a march by children dressed in military clothing who held"
+    },
+    "sample_69": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "near Saida ,",
+        "sentence": "A France Presse correspondent reported that around 200 Palestinians marched along the streets of Ayn <UNK> refugee camp near Saida , one of southern Lebanon 's main cities , toward"
+    },
+    "sample_70": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "southern Lebanon 's",
+        "sentence": "A France Presse correspondent reported that around 200 Palestinians marched along the streets of Ayn <UNK> refugee camp near Saida , one of southern Lebanon 's main cities , toward"
+    },
+    "sample_71": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "holy Jerusalem as",
+        "sentence": "He added , \" The Intifada will continue until a Palestinian state with holy Jerusalem as its capital is created and the refugees return to their homes . \""
+    },
+    "sample_72": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "From BBC News in",
+        "sentence": "From BBC News in London , I am Gregor <UNK> for The World ."
+    },
+    "sample_73": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in London ,",
+        "sentence": "From BBC News in London , I am Gregor <UNK> for The World ."
+    },
+    "sample_74": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "The US Supreme Court has",
+        "sentence": "The US Supreme Court has held a hearing to decide whether to intervene in the dispute over the presidential election results ."
+    },
+    "sample_75": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "as Ruth Bater Ginsburg pressed",
+        "sentence": "Inside the stately Supreme Court building , lawyers for Republican George W. Bush and Democrat AL Gore argued over the validity of hand <UNK> in the crucial state of Florida"
+    },
+    "sample_76": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Florida Supreme Court 's",
+        "sentence": "Inside the stately Supreme Court building , lawyers for Republican George W. Bush and Democrat AL Gore argued over the validity of hand <UNK> in the crucial state of Florida"
+    },
+    "sample_77": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "Justice Sandra Day O'Connor suggested",
+        "sentence": "But later on , Justice Sandra Day O'Connor suggested the State court might have been out of line ."
+    },
+    "sample_78": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Washington .",
+        "sentence": "For The World , I am Judith Spencer in Washington ."
+    },
+    "sample_79": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Bandar Seri Begawan 11-15",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - A high-level American official announced today Wednesday in the wake of the meeting between American President Bill Clinton and his Russian counterpart"
+    },
+    "sample_80": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - A high-level American official announced today Wednesday in the wake of the meeting between American President Bill Clinton and his Russian counterpart"
+    },
+    "sample_81": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Sultanate of Brunei .",
+        "sentence": "Clinton and Putin are taking part in the Asia-Pacific Economic Cooperation ( APEC ) forum in Bandar Seri Begawan the capital of the Sultanate of Brunei ."
+    },
+    "sample_82": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "to Iran ,",
+        "sentence": "He also said that Clinton raised the issue of the transfer of sensitive Russian technology to Iran , adding \" President Putin has expressed his agreement that these are real"
+    },
+    "sample_83": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> HONG KONG _",
+        "sentence": "ECONOMISTS <UNK> <UNK> <UNK> By MARK LANDLER <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> HONG KONG _ For most of this year , Asia"
+    },
+    "sample_84": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Asia 's",
+        "sentence": "ECONOMISTS <UNK> <UNK> <UNK> By MARK LANDLER <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> HONG KONG _ For most of this year , Asia"
+    },
+    "sample_85": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the International Monetary Fund warned",
+        "sentence": "Yet a block away , the International Monetary Fund warned in a news conference that Asian economies could be hit hard by soaring oil prices and turmoil in the financial"
+    },
+    "sample_86": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Philippines ,",
+        "sentence": "Several Asian countries _ notably the Philippines , Taiwan , and Indonesia _ have been gripped by political tumult in recent weeks ."
+    },
+    "sample_87": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Taiwan ,",
+        "sentence": "Several Asian countries _ notably the Philippines , Taiwan , and Indonesia _ have been gripped by political tumult in recent weeks ."
+    },
+    "sample_88": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Indonesia _",
+        "sentence": "Several Asian countries _ notably the Philippines , Taiwan , and Indonesia _ have been gripped by political tumult in recent weeks ."
+    },
+    "sample_89": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "while Chen Shui-bian ,",
+        "sentence": "The Philippines president , Joseph Estrada , was impeached last week , while Chen Shui-bian , the president of Taiwan , is trying to fend off a recall vote ."
+    },
+    "sample_90": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "like Malaysia and",
+        "sentence": "Even in more stable countries , like Malaysia and South Korea , Robinson said the Fund was concerned by the haphazard pace of economic reforms ."
+    },
+    "sample_91": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and South Korea ,",
+        "sentence": "Even in more stable countries , like Malaysia and South Korea , Robinson said the Fund was concerned by the haphazard pace of economic reforms ."
+    },
+    "sample_92": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Singapore have",
+        "sentence": "Indonesia , Malaysia , and Singapore have also beaten expectations , while Hong Kong 's growth rate was nearly three percentage points above a median forecast of 12 economists surveyed"
+    },
+    "sample_93": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "by Bloomberg News .",
+        "sentence": "Indonesia , Malaysia , and Singapore have also beaten expectations , while Hong Kong 's growth rate was nearly three percentage points above a median forecast of 12 economists surveyed"
+    },
+    "sample_94": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the United States .",
+        "sentence": "Like other Asian economies , Hong Kong has been buoyed by an unquenchable appetite for its exports , principally in the United States ."
+    },
+    "sample_95": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "mainland China .",
+        "sentence": "Hong Kong has done a particularly booming business in repackaging and shipping goods from mainland China ."
+    },
+    "sample_96": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the Hong Kong General Chamber of Commerce said",
+        "sentence": "Ian Perkin , chief economist at the Hong Kong General Chamber of Commerce said the double-digit growth in Hong Kong and other Asian countries masked their underlying condition ."
+    },
+    "sample_97": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Bandar Seri Begawan 11-15",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - A Japanese official announced today Wednesday that Japan and Russia are to hold a summit before the end of the current year"
+    },
+    "sample_98": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - A Japanese official announced today Wednesday that Japan and Russia are to hold a summit before the end of the current year"
+    },
+    "sample_99": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Russia are",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - A Japanese official announced today Wednesday that Japan and Russia are to hold a summit before the end of the current year"
+    },
+    "sample_100": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Brunei .",
+        "sentence": "The decision to hold the summit was made during the meeting between Russian President Vladimir Putin and Japanese Prime Minister Yoshiro Mori on the periphery of the Asia-Pacific Economic Cooperation"
+    },
+    "sample_101": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "at <UNK> (",
+        "sentence": "The Japanese official said that those responsible had \" agreed to meet at <UNK> ( east Russia ) before the end of the year ."
+    },
+    "sample_102": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Xinhua News Agency ,",
+        "sentence": "Xinhua News Agency , Beijing , September 1st , by reporter <UNK> Wu The Weir Group of the US recently signed an implementation agreement in Beijing with Jiangsu Province 's"
+    },
+    "sample_103": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Beijing ,",
+        "sentence": "Xinhua News Agency , Beijing , September 1st , by reporter <UNK> Wu The Weir Group of the US recently signed an implementation agreement in Beijing with Jiangsu Province 's"
+    },
+    "sample_104": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "The Weir Group of",
+        "sentence": "Xinhua News Agency , Beijing , September 1st , by reporter <UNK> Wu The Weir Group of the US recently signed an implementation agreement in Beijing with Jiangsu Province 's"
+    },
+    "sample_105": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the US recently",
+        "sentence": "Xinhua News Agency , Beijing , September 1st , by reporter <UNK> Wu The Weir Group of the US recently signed an implementation agreement in Beijing with Jiangsu Province 's"
+    },
+    "sample_106": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "with Jiangsu Province 's",
+        "sentence": "Xinhua News Agency , Beijing , September 1st , by reporter <UNK> Wu The Weir Group of the US recently signed an implementation agreement in Beijing with Jiangsu Province 's"
+    },
+    "sample_107": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "build China 's",
+        "sentence": "Xinhua News Agency , Beijing , September 1st , by reporter <UNK> Wu The Weir Group of the US recently signed an implementation agreement in Beijing with Jiangsu Province 's"
+    },
+    "sample_108": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Rudong ,",
+        "sentence": "This power plant , which will be situated in Rudong , Jiangsu , has an annual generation capacity of 2.4 million kilowatts ."
+    },
+    "sample_109": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Japan ,",
+        "sentence": "When the gross national product per capita reached 3000 US dollars in Japan , South Korea and Taiwan , etc. , environmental protection awareness generally rose , and all began"
+    },
+    "sample_110": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", South Korea and",
+        "sentence": "When the gross national product per capita reached 3000 US dollars in Japan , South Korea and Taiwan , etc. , environmental protection awareness generally rose , and all began"
+    },
+    "sample_111": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Taiwan ,",
+        "sentence": "When the gross national product per capita reached 3000 US dollars in Japan , South Korea and Taiwan , etc. , environmental protection awareness generally rose , and all began"
+    },
+    "sample_112": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> London 10-16",
+        "sentence": "London 10-16 ( AFP ) - A Saudi Airways spokesman in London announced that passengers on the Saudi 777 Boeing , hijacked to Baghdad on Saturday and which arrived in"
+    },
+    "sample_113": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "London 10-16 ( AFP ) - A Saudi Airways spokesman in London announced that passengers on the Saudi 777 Boeing , hijacked to Baghdad on Saturday and which arrived in"
+    },
+    "sample_114": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "to Baghdad on",
+        "sentence": "London 10-16 ( AFP ) - A Saudi Airways spokesman in London announced that passengers on the Saudi 777 Boeing , hijacked to Baghdad on Saturday and which arrived in"
+    },
+    "sample_115": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Riyadh yesterday",
+        "sentence": "London 10-16 ( AFP ) - A Saudi Airways spokesman in London announced that passengers on the Saudi 777 Boeing , hijacked to Baghdad on Saturday and which arrived in"
+    },
+    "sample_116": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "at Riyadh International Airport at",
+        "sentence": "The Boeing arrived at Riyadh International Airport at 21h30 yesterday Sunday from Baghdad through Jordanian air space with 104 passengers on board , including 14 crew members ."
+    },
+    "sample_117": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "<UNK> TALLAHASSEE ,",
+        "sentence": "<UNK> <UNK> By DAVID FIRESTONE <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> TALLAHASSEE , Fla. _ Lawyers for Vice President Al Gore said Wednesday"
+    },
+    "sample_118": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Fla. _",
+        "sentence": "<UNK> <UNK> By DAVID FIRESTONE <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> TALLAHASSEE , Fla. _ Lawyers for Vice President Al Gore said Wednesday"
+    },
+    "sample_119": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "Florida Supreme Court to",
+        "sentence": "<UNK> <UNK> By DAVID FIRESTONE <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> TALLAHASSEE , Fla. _ Lawyers for Vice President Al Gore said Wednesday"
+    },
+    "sample_120": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the District Court of Appeal late",
+        "sentence": "The appeal was filed with the District Court of Appeal late Wednesday afternoon , and will be submitted to the state 's highest court early Thursday , Gore 's lawyers"
+    },
+    "sample_121": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the Electoral College ,",
+        "sentence": "And facing a Dec. 12 deadline for the state to name electors for the Electoral College , Gore has absolutely no days to spare ."
+    },
+    "sample_122": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "like Chicago O'Hare and",
+        "sentence": "If you have to connect , choose the <UNK> airport possible ; some airports , like Chicago O'Hare and La Guardia in New York , experience chronic delays ."
+    },
+    "sample_123": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and La Guardia in",
+        "sentence": "If you have to connect , choose the <UNK> airport possible ; some airports , like Chicago O'Hare and La Guardia in New York , experience chronic delays ."
+    },
+    "sample_124": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in New York ,",
+        "sentence": "If you have to connect , choose the <UNK> airport possible ; some airports , like Chicago O'Hare and La Guardia in New York , experience chronic delays ."
+    },
+    "sample_125": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the South might",
+        "sentence": "Take into consideration the weather and the season ; an airport in the South might have fewer winter snowstorms but more spring and summer thunderstorms ."
+    },
+    "sample_126": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "The Transportation Department requires",
+        "sentence": "The Transportation Department requires major domestic airlines to make the on-time record for every flight available to consumers ."
+    },
+    "sample_127": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "of Los Angeles International ,",
+        "sentence": "Instead of Los Angeles International , for example , consider flying into Burbank or John Wayne Airport in Orange County , Calif ."
+    },
+    "sample_128": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "into Burbank or",
+        "sentence": "Instead of Los Angeles International , for example , consider flying into Burbank or John Wayne Airport in Orange County , Calif ."
+    },
+    "sample_129": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "or John Wayne Airport in",
+        "sentence": "Instead of Los Angeles International , for example , consider flying into Burbank or John Wayne Airport in Orange County , Calif ."
+    },
+    "sample_130": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Orange County ,",
+        "sentence": "Instead of Los Angeles International , for example , consider flying into Burbank or John Wayne Airport in Orange County , Calif ."
+    },
+    "sample_131": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Calif .",
+        "sentence": "Instead of Los Angeles International , for example , consider flying into Burbank or John Wayne Airport in Orange County , Calif ."
+    },
+    "sample_132": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "use Westchester County Airport instead",
+        "sentence": ", or use Westchester County Airport instead of JFK in New York ."
+    },
+    "sample_133": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "of JFK in",
+        "sentence": ", or use Westchester County Airport instead of JFK in New York ."
+    },
+    "sample_134": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "The Federal Aviation Administration 's",
+        "sentence": "The Federal Aviation Administration 's Web site , <UNK> , has real-time information on operations at the biggest airports ."
+    },
+    "sample_135": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "to Washington .",
+        "sentence": "Send a copy of your letter to Washington ."
+    },
+    "sample_136": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": ": Aviation Consumer Protection Div .",
+        "sentence": "Write to : Aviation Consumer Protection Div ."
+    },
+    "sample_137": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> CAIRO ,",
+        "sentence": "CAIRO , Egypt ( AP ) _ In his foreign policy debut as Syria 's president , Bashar Assad met Sunday with Egyptian President Hosni Mubarak in talks on Mideast"
+    },
+    "sample_138": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Egypt (",
+        "sentence": "CAIRO , Egypt ( AP ) _ In his foreign policy debut as Syria 's president , Bashar Assad met Sunday with Egyptian President Hosni Mubarak in talks on Mideast"
+    },
+    "sample_139": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "( AP )",
+        "sentence": "CAIRO , Egypt ( AP ) _ In his foreign policy debut as Syria 's president , Bashar Assad met Sunday with Egyptian President Hosni Mubarak in talks on Mideast"
+    },
+    "sample_140": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "as Syria 's",
+        "sentence": "CAIRO , Egypt ( AP ) _ In his foreign policy debut as Syria 's president , Bashar Assad met Sunday with Egyptian President Hosni Mubarak in talks on Mideast"
+    },
+    "sample_141": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "Egyptian President Hosni",
+        "sentence": "CAIRO , Egypt ( AP ) _ In his foreign policy debut as Syria 's president , Bashar Assad met Sunday with Egyptian President Hosni Mubarak in talks on Mideast"
+    },
+    "sample_142": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "of Iraq in",
+        "sentence": "Assad , on his first trip abroad since becoming president in July , also dealt with the issue of Iraq in the talks with Mubarak , Egyptian Foreign Minister Amr"
+    },
+    "sample_143": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the West Bank ,",
+        "sentence": "The Syrian leader 's visit came on a fourth day of clashes that have raged in the West Bank , Gaza Strip and Jerusalem , leaving more than two dozen"
+    },
+    "sample_144": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Gaza Strip and",
+        "sentence": "The Syrian leader 's visit came on a fourth day of clashes that have raged in the West Bank , Gaza Strip and Jerusalem , leaving more than two dozen"
+    },
+    "sample_145": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Jerusalem ,",
+        "sentence": "The Syrian leader 's visit came on a fourth day of clashes that have raged in the West Bank , Gaza Strip and Jerusalem , leaving more than two dozen"
+    },
+    "sample_146": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", America 's",
+        "sentence": "Washington 11-15 ( AFP ) - Stewart Talbot , America 's Assistant Secretary of State and \" second in charge \" at the State Department after Madeleine Albright , has"
+    },
+    "sample_147": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "after Madeleine Albright ,",
+        "sentence": "Washington 11-15 ( AFP ) - Stewart Talbot , America 's Assistant Secretary of State and \" second in charge \" at the State Department after Madeleine Albright , has"
+    },
+    "sample_148": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "at Yale University in",
+        "sentence": "Washington 11-15 ( AFP ) - Stewart Talbot , America 's Assistant Secretary of State and \" second in charge \" at the State Department after Madeleine Albright , has"
+    },
+    "sample_149": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Richard Levin ,",
+        "sentence": "Richard Levin , the Chancellor of this prestigious university , said Talbot would head the Globalization Studies Center as of next July and would also teach at the university ."
+    },
+    "sample_150": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the Globalization Studies Center as",
+        "sentence": "Richard Levin , the Chancellor of this prestigious university , said Talbot would head the Globalization Studies Center as of next July and would also teach at the university ."
+    },
+    "sample_151": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Middle East ,",
+        "sentence": "The special envoy to the Middle East , Dennis Ross , announced last week that he intends to resign from his post , for personal and family reasons , once"
+    },
+    "sample_152": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "with Time magazine ,",
+        "sentence": "Talbot , a Yale graduate and former correspondent with Time magazine , was appointed assistant to the Secretary of State in 1994 after acting as roving ambassador and special advisor"
+    },
+    "sample_153": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Camp Zeist (",
+        "sentence": "Camp Zeist ( Holland ) 11-15 ( AFP ) - Today Wednesday , the judges in charge of looking into the Lockerbie case in Camp Zeist ( Holland ) were"
+    },
+    "sample_154": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "( Holland )",
+        "sentence": "Camp Zeist ( Holland ) 11-15 ( AFP ) - Today Wednesday , the judges in charge of looking into the Lockerbie case in Camp Zeist ( Holland ) were"
+    },
+    "sample_155": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Camp Zeist ( Holland ) 11-15 ( AFP ) - Today Wednesday , the judges in charge of looking into the Lockerbie case in Camp Zeist ( Holland ) were"
+    },
+    "sample_156": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "former Soviet Union for",
+        "sentence": "The problem arose after Palestinian Mahmood Abu Talib , whose testimony the court has been hearing since Friday , refused to continue answering a question by defense lawyer Richard Keen"
+    },
+    "sample_157": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Sweden for",
+        "sentence": "46-year-old Abu Talib was sentenced to life imprisonment in 1990 in Sweden for terrorist acts in Amsterdam , Copenhagen and Stockholm between 1985 and 1986 ."
+    },
+    "sample_158": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Amsterdam ,",
+        "sentence": "46-year-old Abu Talib was sentenced to life imprisonment in 1990 in Sweden for terrorist acts in Amsterdam , Copenhagen and Stockholm between 1985 and 1986 ."
+    },
+    "sample_159": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Copenhagen and",
+        "sentence": "46-year-old Abu Talib was sentenced to life imprisonment in 1990 in Sweden for terrorist acts in Amsterdam , Copenhagen and Stockholm between 1985 and 1986 ."
+    },
+    "sample_160": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Stockholm between",
+        "sentence": "46-year-old Abu Talib was sentenced to life imprisonment in 1990 in Sweden for terrorist acts in Amsterdam , Copenhagen and Stockholm between 1985 and 1986 ."
+    },
+    "sample_161": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": ", Alameen Khalifa Fahima and",
+        "sentence": "The two Libyans , Alameen Khalifa Fahima and Abdulbasit <UNK> , are suspected of sending a bomb from Malta which was used to explode the Pan Am plane over the"
+    },
+    "sample_162": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "and Abdulbasit <UNK> ,",
+        "sentence": "The two Libyans , Alameen Khalifa Fahima and Abdulbasit <UNK> , are suspected of sending a bomb from Malta which was used to explode the Pan Am plane over the"
+    },
+    "sample_163": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "from Malta which",
+        "sentence": "The two Libyans , Alameen Khalifa Fahima and Abdulbasit <UNK> , are suspected of sending a bomb from Malta which was used to explode the Pan Am plane over the"
+    },
+    "sample_164": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> GROSSE POINTE PARK ,",
+        "sentence": "<UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> GROSSE POINTE PARK , Mich. _ It is deer hunting season in Michigan , and hunters who climb trees with"
+    },
+    "sample_165": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Mich. _",
+        "sentence": "<UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> GROSSE POINTE PARK , Mich. _ It is deer hunting season in Michigan , and hunters who climb trees with"
+    },
+    "sample_166": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "like New York and",
+        "sentence": "Firearm hunting from elevated platforms has long been legal in other states with heavy hunting , like New York and Pennsylvania ."
+    },
+    "sample_167": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Pennsylvania .",
+        "sentence": "Firearm hunting from elevated platforms has long been legal in other states with heavy hunting , like New York and Pennsylvania ."
+    },
+    "sample_168": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "Michigan Department of Natural Resources <UNK>",
+        "sentence": "Lt. Suzanne <UNK> , hunter safety administrator of the law enforcement division of the Michigan Department of Natural Resources <UNK> , <UNK> said that since firearm platform hunting began in"
+    },
+    "sample_169": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "of Detroit .",
+        "sentence": "`` It 's kind of hard climbing a tree with a gun , \" Rob Williams said , as he and a hunting partner , Art Bush , waited on"
+    },
+    "sample_170": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Washington .",
+        "sentence": "I 'm Erin Brumett in Washington ."
+    },
+    "sample_171": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "US Supreme Court at",
+        "sentence": "The incredibly close Florida vote count for President is in the state courts and heading for the US Supreme Court at the end of the week ."
+    },
+    "sample_172": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Joe <UNK> is",
+        "sentence": "Joe <UNK> is a professor of constitutional law at Baltimore 's Johns Hopkins University ."
+    },
+    "sample_173": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "at Baltimore 's",
+        "sentence": "Joe <UNK> is a professor of constitutional law at Baltimore 's Johns Hopkins University ."
+    },
+    "sample_174": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "'s Johns Hopkins University .",
+        "sentence": "Joe <UNK> is a professor of constitutional law at Baltimore 's Johns Hopkins University ."
+    },
+    "sample_175": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "that Lawrence Tribe ,",
+        "sentence": "In fact , I think that Lawrence Tribe , the Harvard Law School Professor who is arguing for Gore tomorrow , is going to ask the court to hold the"
+    },
+    "sample_176": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "for Gore tomorrow",
+        "sentence": "In fact , I think that Lawrence Tribe , the Harvard Law School Professor who is arguing for Gore tomorrow , is going to ask the court to hold the"
+    },
+    "sample_177": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "the legislature of",
+        "sentence": "For example , if the court says it is clearly the fact that the legislature of the state of Florida can determine for itself who its electors will be ,"
+    },
+    "sample_178": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "ultimately Congress has",
+        "sentence": "And that does n't mean the Gore people wo n't keep trying , because ultimately Congress has to decide and only Congress can decide if there are competing slates of"
+    },
+    "sample_179": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Gaza 11-15",
+        "sentence": "Gaza 11-15 ( AFP ) - A Palestinian medical source reported today Wednesday that more than fifteen Palestinians were injured this morning in the town of Rafah in the southern"
+    },
+    "sample_180": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Gaza 11-15 ( AFP ) - A Palestinian medical source reported today Wednesday that more than fifteen Palestinians were injured this morning in the town of Rafah in the southern"
+    },
+    "sample_181": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "with Egypt and",
+        "sentence": "Eyewitnesses said the clashes broke out when the Israeli army began bulldozing Palestinian land near the border with Egypt and opened fire randomly on Palestinian citizens when they threw stones"
+    },
+    "sample_182": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( <UNK> )",
+        "sentence": "The town 's authorities said last night the Israeli army dug up several hectares planted with orange trees in southern Gaza ( <UNK> ) ."
+    },
+    "sample_183": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "of Time Warner .",
+        "sentence": "Since then , AOL 's stock has fallen by almost a third , destroying most of the premium the company had offered for control of Time Warner ."
+    },
+    "sample_184": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "at State Street Research in",
+        "sentence": "`` Short term , anyone objective would say probably Steve got the better part of the deal , \" said Larry Haverty , a senior vice president at State Street"
+    },
+    "sample_185": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Boston and",
+        "sentence": "`` Short term , anyone objective would say probably Steve got the better part of the deal , \" said Larry Haverty , a senior vice president at State Street"
+    },
+    "sample_186": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "of Sanford C. Bernstein .",
+        "sentence": "`` Strategically , it makes a lot of sense , \" said Tom Wolzien of Sanford C. Bernstein ."
+    },
+    "sample_187": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Disney stumbled",
+        "sentence": "Disney stumbled badly after it bought Capital Cities/ABC in 1996 , and Time Warner stagnated for five years after it was created in 1990 by the merger of Time and"
+    },
+    "sample_188": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "bought Capital Cities/ABC in",
+        "sentence": "Disney stumbled badly after it bought Capital Cities/ABC in 1996 , and Time Warner stagnated for five years after it was created in 1990 by the merger of Time and"
+    },
+    "sample_189": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "of Time and",
+        "sentence": "Disney stumbled badly after it bought Capital Cities/ABC in 1996 , and Time Warner stagnated for five years after it was created in 1990 by the merger of Time and"
+    },
+    "sample_190": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "and Warner .",
+        "sentence": "Disney stumbled badly after it bought Capital Cities/ABC in 1996 , and Time Warner stagnated for five years after it was created in 1990 by the merger of Time and"
+    },
+    "sample_191": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "said Roger McNamee of",
+        "sentence": "`` Huge deals are really hard to do and create a lot of uncertainty , \" said Roger McNamee of Integral Capital , which sold its 404,000 AOL shares the"
+    },
+    "sample_192": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "of Merrill Lynch .",
+        "sentence": "But if the merged company can overcome that hurdle , it will have big advantages over Disney and other traditional media companies , which are still struggling to figure out"
+    },
+    "sample_193": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "extent NBC screaming",
+        "sentence": "`` There 's a reason that you see Disney and to a lesser extent NBC screaming in Washington . \""
+    },
+    "sample_194": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Washington .",
+        "sentence": "`` There 's a reason that you see Disney and to a lesser extent NBC screaming in Washington . \""
+    },
+    "sample_195": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "at Janus Capital ,",
+        "sentence": "John Schreiber , an assistant portfolio manager at Janus Capital , the mutual fund company that is Time Warner 's largest shareholder , with more than 120 million shares ,"
+    },
+    "sample_196": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "like Comcast have",
+        "sentence": "Shares in cable companies like Comcast have fallen 15 percent or more this year , while big media companies have been flat or up slightly ."
+    },
+    "sample_197": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> Bandar Seri Begawan 11-15",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - American President Bill Clinton attempted today Wednesday to reassure money markets about doubts caused by the battle between the Republicans and Democrats"
+    },
+    "sample_198": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "( AFP )",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - American President Bill Clinton attempted today Wednesday to reassure money markets about doubts caused by the battle between the Republicans and Democrats"
+    },
+    "sample_199": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the State of Florida .",
+        "sentence": "Bandar Seri Begawan 11-15 ( AFP ) - American President Bill Clinton attempted today Wednesday to reassure money markets about doubts caused by the battle between the Republicans and Democrats"
+    },
+    "sample_200": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Brunei that",
+        "sentence": "Clinton told a group of businessmen on the periphery of the Asia-Pacific Economic Cooperation forum in Brunei that \" one of the issues both Vice-President Al Gore and Governor George"
+    },
+    "sample_201": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "From BBC News in",
+        "sentence": "From BBC News in London , I am Gregor Craigy for The World ."
+    },
+    "sample_202": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in London ,",
+        "sentence": "From BBC News in London , I am Gregor Craigy for The World ."
+    },
+    "sample_203": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "from Taiwan to",
+        "sentence": "A Singapore Airlines 747 flying from Taiwan to Los Angeles has crashed ."
+    },
+    "sample_204": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "to Los Angeles has",
+        "sentence": "A Singapore Airlines 747 flying from Taiwan to Los Angeles has crashed ."
+    },
+    "sample_205": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> CHATTANOOGA ,",
+        "sentence": "<UNK> <UNK> By FRANK BRUNI <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> CHATTANOOGA , Tenn. _ Nearly 17 months after he first issued his"
+    },
+    "sample_206": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", Tenn. _",
+        "sentence": "<UNK> <UNK> By FRANK BRUNI <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> CHATTANOOGA , Tenn. _ Nearly 17 months after he first issued his"
+    },
+    "sample_207": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "purge Washington of",
+        "sentence": "<UNK> <UNK> By FRANK BRUNI <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> CHATTANOOGA , Tenn. _ Nearly 17 months after he first issued his"
+    },
+    "sample_208": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "for Arkansas ,",
+        "sentence": "His first major rally was in Tennessee and his last was planned for Arkansas , the home states , respectively , of Vice President Al Gore and President Clinton ."
+    },
+    "sample_209": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the White House with",
+        "sentence": "The Texas governor 's words made equally clear that he saw himself as the country 's best hope for bridging ideological divides , healing partisan wounds and making sure that"
+    },
+    "sample_210": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Wisconsin and",
+        "sentence": "In between Tennessee and Arkansas , his campaign plane touched down in Wisconsin and Iowa , and while any one of those four states could wind up providing the key"
+    },
+    "sample_211": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Iowa ,",
+        "sentence": "In between Tennessee and Arkansas , his campaign plane touched down in Wisconsin and Iowa , and while any one of those four states could wind up providing the key"
+    },
+    "sample_212": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "as Michigan and",
+        "sentence": "In between Tennessee and Arkansas , his campaign plane touched down in Wisconsin and Iowa , and while any one of those four states could wind up providing the key"
+    },
+    "sample_213": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "and Pennsylvania .",
+        "sentence": "In between Tennessee and Arkansas , his campaign plane touched down in Wisconsin and Iowa , and while any one of those four states could wind up providing the key"
+    },
+    "sample_214": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Green Bay ,",
+        "sentence": "`` I want you to understand that I ca n't win without you , \" Bush told a crowd of more than 1,000 people at a convention center in Green"
+    },
+    "sample_215": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": ", D.C. ,",
+        "sentence": "`` He may win Washington , D.C. , but he 's not going to win Tennessee ."
+    },
+    "sample_216": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "<UNK> WASHINGTON _",
+        "sentence": "<UNK> By JAMES DAO <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> WASHINGTON _ Ralph Nader may not be feeling any regrets about his Green"
+    },
+    "sample_217": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "_ Ralph Nader may",
+        "sentence": "<UNK> By JAMES DAO <UNK> <UNK> <UNK> <UNK> c. 2000 N.Y. Times News Service <UNK> <UNK> <UNK> WASHINGTON _ Ralph Nader may not be feeling any regrets about his Green"
+    },
+    "sample_218": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "to America .",
+        "sentence": "There was this entry , for instance , posted Thursday morning by a writer named `` <UNK> \" : `` I , too , feel I should apologize to America"
+    },
+    "sample_219": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the White House has",
+        "sentence": "But the symbolic run for the White House has destroyed our Party and our cause ."
+    },
+    "sample_220": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "In Florida ,",
+        "sentence": "In Florida , where Gore trailed Bush by only a few hundred votes Thursday , a shift of just a fraction of Nader 's 95,000 votes could have given the"
+    },
+    "sample_221": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Oregon ,",
+        "sentence": "And in Oregon , a state that was still too close to call Thursday afternoon , Nader won about 5 percent of the vote _ enough to cause some Nader"
+    },
+    "sample_222": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Portland ,",
+        "sentence": "Julie <UNK> , 28 , who voted for Nader in Portland , said on Wednesday that she was feeling `` a little alarmed and disappointed \" that Bush seemed on"
+    },
+    "sample_223": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "Florida Green Party ,",
+        "sentence": "Dorothy Byrne , a state coordinator for the Florida Green Party , said she had been inundated with angry phone calls and e-mails from Democrats , but has yet to"
+    },
+    "sample_224": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Sierra Club ,",
+        "sentence": "Barbara Lange , the Everglades chairwoman for the Florida chapter of the Sierra Club , said she and other environmentalists voted for Nader because Gore had not taken a stand"
+    },
+    "sample_225": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the University of Florida in",
+        "sentence": "Patricia Newell , an organizer for Nader at the University of Florida in Gainesville , said that Nader had won far fewer votes in Florida than his supporters had expected"
+    },
+    "sample_226": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Gainesville ,",
+        "sentence": "Patricia Newell , an organizer for Nader at the University of Florida in Gainesville , said that Nader had won far fewer votes in Florida than his supporters had expected"
+    },
+    "sample_227": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "as ABC did",
+        "sentence": "_ Will Americans ever refer to the day before Thanksgiving as `` Thanksgiving Wednesday , \" as ABC did repeatedly this week in commercials promoting its Wednesday sitcoms `` The"
+    },
+    "sample_228": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "on Fox Sports sponsored",
+        "sentence": "_ How many readers of The Wall Street Journal noticed that an article on Wednesday carrying the headline `` Genetically Altered Protein Is Found in Still More Corn \" ran"
+    },
+    "sample_229": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "by Sun Microsystems that",
+        "sentence": "_ How many readers of The Wall Street Journal noticed that an article on Wednesday carrying the headline `` Genetically Altered Protein Is Found in Still More Corn \" ran"
+    },
+    "sample_230": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "for Fidelity Investments ,",
+        "sentence": "_ Does n't a new television commercial for Fidelity Investments , centered on a telephone conversation between a female employee and a male customer , resemble a Citibank campaign from"
+    },
+    "sample_231": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "Can Ocean Spray Cranberries get",
+        "sentence": "_ Can Ocean Spray Cranberries get a refund on a full-page ad that ran in newspapers on Nov. 8 and carried the headline `` Now That the Election Is Over"
+    },
+    "sample_232": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "of In Style Entertaining 2000 magazine ran",
+        "sentence": "_ Was it a coincidence that an ad for the Carnation Coffee-mate line of coffee creamers in the recent issue of In Style Entertaining 2000 magazine ran opposite an article"
+    },
+    "sample_233": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "of PepsiCo produced",
+        "sentence": "_ Should an English teacher have been consulted before the Tropicana division of PepsiCo produced posters that described its Pure Premium orange juice as being `` as packed with Vitamin"
+    },
+    "sample_234": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "Will Jack Nicholson ,",
+        "sentence": "_ Will Jack Nicholson , Helen Hunt , Greg Kinnear and James L. Brooks complain about an ad from Campbell Soup Co ."
+    },
+    "sample_235": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": ", Helen Hunt ,",
+        "sentence": "_ Will Jack Nicholson , Helen Hunt , Greg Kinnear and James L. Brooks complain about an ad from Campbell Soup Co ."
+    },
+    "sample_236": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": ", Greg Kinnear and",
+        "sentence": "_ Will Jack Nicholson , Helen Hunt , Greg Kinnear and James L. Brooks complain about an ad from Campbell Soup Co ."
+    },
+    "sample_237": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "and James L. Brooks complain",
+        "sentence": "_ Will Jack Nicholson , Helen Hunt , Greg Kinnear and James L. Brooks complain about an ad from Campbell Soup Co ."
+    },
+    "sample_238": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "from Campbell Soup Co .",
+        "sentence": "_ Will Jack Nicholson , Helen Hunt , Greg Kinnear and James L. Brooks complain about an ad from Campbell Soup Co ."
+    },
+    "sample_239": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the Roundabout Theater Company is",
+        "sentence": "_ Now that the Roundabout Theater Company is calling its new facility in Times Square the American Airlines Theater , will the ushers give out peanuts instead of Playbills ?"
+    },
+    "sample_240": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "in Times Square the",
+        "sentence": "_ Now that the Roundabout Theater Company is calling its new facility in Times Square the American Airlines Theater , will the ushers give out peanuts instead of Playbills ?"
+    },
+    "sample_241": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the Reader 's Digest Association go",
+        "sentence": "_ Why did the Reader 's Digest Association go to the trouble of airbrushing the identifying information from a label on a pair of jeans worn by a man in"
+    },
+    "sample_242": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "for Reader 's Digest magazine ,",
+        "sentence": "_ Why did the Reader 's Digest Association go to the trouble of airbrushing the identifying information from a label on a pair of jeans worn by a man in"
+    },
+    "sample_243": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "are Levi 's",
+        "sentence": "_ Why did the Reader 's Digest Association go to the trouble of airbrushing the identifying information from a label on a pair of jeans worn by a man in"
+    },
+    "sample_244": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "_ Empire Blue Cross Blue Shield and",
+        "sentence": "_ What was in the zeitgeist that led two disparate advertisers _ Empire Blue Cross Blue Shield and the MSN network of Microsoft _ to introduce about the same time"
+    },
+    "sample_245": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "the MSN network of",
+        "sentence": "_ What was in the zeitgeist that led two disparate advertisers _ Empire Blue Cross Blue Shield and the MSN network of Microsoft _ to introduce about the same time"
+    },
+    "sample_246": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "of Microsoft _",
+        "sentence": "_ What was in the zeitgeist that led two disparate advertisers _ Empire Blue Cross Blue Shield and the MSN network of Microsoft _ to introduce about the same time"
+    },
+    "sample_247": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "_ Land Rover and",
+        "sentence": "_ And what was in the zeitgeist that led two automotive marketers _ Land Rover and Volvo _ to introduce about the same time commercials centered on drivers rescuing animals"
+    },
+    "sample_248": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "and Volvo _",
+        "sentence": "_ And what was in the zeitgeist that led two automotive marketers _ Land Rover and Volvo _ to introduce about the same time commercials centered on drivers rescuing animals"
+    },
+    "sample_249": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "by Sprint Communications Co .",
+        "sentence": "_ How appealing was a recent offer made by Sprint Communications Co ."
+    },
+    "sample_250": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "by John Corbett on",
+        "sentence": "_ Was it an inside joke that the name of the character played by John Corbett on `` Sex and the City , \" Aidan Shaw , was almost identical"
+    },
+    "sample_251": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "LOC"
+        ],
+        "overlap": [],
+        "mention": "the Houston Grand Opera sell",
+        "sentence": "_ How many tickets did the Houston Grand Opera sell after mailing out a promotional brochure featuring photographs of cattle with headlines like `` It 's udderly fantastic entertainment !"
+    },
+    "sample_252": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "If CBS shows",
+        "sentence": "_ If CBS shows the first episode of `` Survivor II \" after its broadcast of Super Bowl XXXV , will the network someday show the first episode of ``"
+    },
+    "sample_253": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "from Brooklyn \"",
+        "sentence": "_ Will cheerful chorus members dressed in V-neck sweaters interrupt their serenades to online shopping long enough to tell an advertising columnist , `` You ask a lot of questions"
+    },
+    "sample_254": {
+        "gr": [],
+        "pred": [],
+        "overlap": [
+            "MISC"
+        ],
+        "mention": "The Democratic opposition of",
+        "sentence": "The Democratic opposition of Serbia , which supports the President , estimates it has won 65 % of the vote ."
+    },
+    "sample_255": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "PER"
+        ],
+        "overlap": [],
+        "mention": "President Slobodan Milosevic in",
+        "sentence": "The coalition took power after a popular uprising ousted long time Yugoslav President Slobodan Milosevic in October ."
+    },
+    "sample_256": {
+        "gr": [
+            "MISC"
+        ],
+        "pred": [
+            "ORG"
+        ],
+        "overlap": [],
+        "mention": "'s Socialist Party and",
+        "sentence": "Mr. Milosevic 's Socialist Party and its allies won about 1/5th of the vote ."
+    }
+}
