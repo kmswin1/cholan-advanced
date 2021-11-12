@@ -123,10 +123,6 @@ if __name__ == '__main__':
     wikipedia = readfile1(in_file + '/wikipedia.conll')
     wikipedia.to_csv(out_file + 'wikipedia.csv' , sep='\t', encoding='utf-8', index=False)
     
-
     #wikipedia_title = ["Uzbekistan national football team", "Germany"]
     #wikidata_id = get_wikidata_id(wikipedia_title)
     #print(wikipedia_title, " - ", wikidata_id)
-
-
-    
