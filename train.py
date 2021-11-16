@@ -30,7 +30,8 @@ def train():
         pos_labels = torch.ones(pos.size(1)) - 0.2
         neg_labels = torch.ones(neg.size(1)) - 0.7
 
-        loss = criterion(torch.cat([pos, neg], dim=-1), torch.cat([pos_labels, neg_labels], dim=-1))
+        loss = criterion(torch.cat([pos, neg], dim=0), torch.cat([pos_labels, neg_labels], dim=0))
+        loss.backward()
         optimizer.step()
 
         print (loss.item())
