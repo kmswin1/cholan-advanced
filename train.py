@@ -3,6 +3,9 @@ from iter_dataset import Dataset
 from sentence_transformers import SentenceTransformer
 import torch
 import numpy as np
+from transformers import BertTokenizer, BertModel
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+model = BertModel.from_pretrained('bert-base-uncased')
 np.random.seed(7)
 
 def train():
@@ -17,10 +20,10 @@ def train():
         mention, sentence, gold = batch_data
         negative = np.random.choice(dataset.id2candidate, 1)[0]
 
-        mention_embedding = model.encode(mention)
-        sentence_embedding = model.encode(sentence)
-        gold_embedding = model.encode(gold)
-        negative_embedding = model.encode(negative)
+        mention_embedding = tokenizer(mention, return_tensors="pt")
+        sentence_embedding = tokenizer(sentence, return_tensors="pt")
+        gold_embedding = tokenizer(gold, return_tensors="pt")
+        negative_embedding = tokenizer(negative, return_tensors="pt")
 
         pos = torch.sigmoid(torch.dot(mention_embedding, gold_embedding))
         neg = torch.sigmoid(torch.dot(mention_embedding, negative_embedding))
