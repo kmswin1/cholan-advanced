@@ -1,7 +1,6 @@
 from torch.utils.data import DataLoader
-from dataset2 import Dataset
+from iter_dataset import Dataset
 from sentence_transformers import SentenceTransformer
-from sentence_transformers import SentenceTransformer, InputExample, losses
 import torch
 import numpy as np
 np.random.seed(7)
