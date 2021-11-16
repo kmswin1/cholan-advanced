@@ -27,7 +27,7 @@ def train():
     train_loss = losses.CosineSimilarityLoss(model)
 
     # Tune the model
-    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=100, warmup_steps=100)
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=100, warmup_steps=100, output_path='./sent_bert')
 
     criterion = torch.nn.BCELoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
