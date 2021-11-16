@@ -28,8 +28,8 @@ def train():
         #gold_embedding = tokenizer(gold, return_tensors="pt")
         #negative_embedding = tokenizer(negative, return_tensors="pt")
 
-        pos = torch.sigmoid(torch.dot(mention_embedding, gold_embedding))
-        neg = torch.sigmoid(torch.dot(mention_embedding, negative_embedding))
+        pos = torch.sigmoid(torch.dot(torch.tensor(mention_embedding), torch.tensor(gold_embedding)))
+        neg = torch.sigmoid(torch.dot(torch.tensor(mention_embedding), torch.tensor(negative_embedding)))
         pos_labels = torch.ones(pos.size(1)) - 0.2
         neg_labels = torch.ones(neg.size(1)) - 0.7
 
