@@ -19,10 +19,10 @@ def train():
         optimizer.zero_grad()
         mention, sentence, gold = batch_data
         negative = np.random.choice(dataset.id2candidate, 1)[0]
-        mention_embedding = model.encoder(mention)
-        sentence_embedding = model.encoder(sentence)
-        gold_embedding = model.encoder(gold)
-        negative_embedding = model.encoder(negative)
+        mention_embedding = model.encode(mention)
+        sentence_embedding = model.encode(sentence)
+        gold_embedding = model.encode(gold)
+        negative_embedding = model.encode(negative)
         #mention_embedding = tokenizer(mention, return_tensors="pt")
         #sentence_embedding = tokenizer(sentence, return_tensors="pt")
         #gold_embedding = tokenizer(gold, return_tensors="pt")
