@@ -11,7 +11,7 @@ def train():
     bert = BertModel.from_pretrained('bert-base-uncased')
     model = SentenceTransformer('distilbert-base-nli-mean-tokens')
     dataset = Dataset()
-    dataloader = DataLoader(dataset, shuffle=True, batch_size=128)
+    dataloader = DataLoader(dataset, batch_size=128)
     criterion = torch.nn.BCELoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
