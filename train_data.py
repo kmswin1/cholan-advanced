@@ -108,7 +108,7 @@ if __name__ == '__main__':
     aida_train = readfile1(in_file + '/aida_train.txt')
     aida_train.to_csv(out_file + 'aida_train.csv' , sep='\t', encoding='utf-8', index=False)
     
-    aida_test = readfile1(in_file + '/testa_testb_aggregate_original')
+    aida_test = readfile1(in_file + '/aida_testb.txt')
     aida_test.to_csv(out_file + 'aida_test.csv' , sep='\t', encoding='utf-8', index=False)
     
     msnbc = readfile1(in_file + '/msnbc.conll')
