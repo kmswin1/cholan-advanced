@@ -10,7 +10,7 @@ np.random.seed(7)
 
 def train():
     model = SentenceTransformer('distilbert-base-nli-mean-tokens')
-    dataset = Dataset
+    dataset = Dataset()
     dataloader = DataLoader(dataset, shuffle=True, batch_size=128)
     criterion = torch.nn.BCELoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
