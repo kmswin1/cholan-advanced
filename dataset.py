@@ -95,9 +95,13 @@ def read_csv_file(path):
     return data
 
 def read_conll_file(data, path):
-
+    
     conll = {}
     with open(path, 'r', encoding='utf8') as f:
+        if path.find('aida')>=0:
+            flag = 1
+        else:
+            flag = 0
         cur_sent = None
         cur_doc = None
         for line in f:
@@ -120,8 +124,13 @@ def read_conll_file(data, path):
                         mention = comps[2]
                         bi = comps[1]
                         wikilink = comps[4]
-                        wiki_title = comps[4][len("en.wikipedia.org/wiki/"):].replace('_', ' ')
                         
+                        if flag == 1:
+                            wiki_title = comps[4][len("http://en.wikipedia.org/wiki/"):].replace('_', ' ')
+
+                        else:
+                            wiki_title = comps[4][len("en.wikipedia.org/wiki/"):].replace('_', ' ')
+                            
                         if bi == 'I':
                             cur_doc['mentions'][-1]['end'] += 1
                             
@@ -134,34 +143,34 @@ def read_conll_file(data, path):
                                         'wiki_title': wiki_title}
                             cur_doc['mentions'].append(new_ment)
                         
-                            
-    # merge with data
-    rmpunc = re.compile('[\W]+')
-    for doc_name, content in data.items():
-        conll_doc = conll[doc_name.split()[0]]
-        content[0]['conll_doc'] = conll_doc
+                                
+        # merge with data
+        rmpunc = re.compile('[\W]+')
+        for doc_name, content in data.items():
+            conll_doc = conll[doc_name.split()[0]]
+            content[0]['conll_doc'] = conll_doc
 
-        cur_conll_m_id = 0
-        for m in content:
-            mention = m['mention']
-            # flag = 0
+            cur_conll_m_id = 0
+            for m in content:
+                mention = m['mention']
+                # flag = 0
 
-            while True:
-                cur_conll_m = conll_doc['mentions'][cur_conll_m_id]
-                cur_conll_mention = ' '.join(conll_doc['sentences'][cur_conll_m['sent_id']][cur_conll_m['start']:cur_conll_m['end']])
-                if rmpunc.sub('', cur_conll_mention.lower()) == rmpunc.sub('', mention.lower()):
-                    m['conll_m'] = cur_conll_m
+                while True:
+                    cur_conll_m = conll_doc['mentions'][cur_conll_m_id]
+                    cur_conll_mention = ' '.join(conll_doc['sentences'][cur_conll_m['sent_id']][cur_conll_m['start']:cur_conll_m['end']])
+                    if rmpunc.sub('', cur_conll_mention.lower()) == rmpunc.sub('', mention.lower()):
+                        m['conll_m'] = cur_conll_m
 
-                    # if flag == 1:
-                    #     print(cur_conll_m_id, cur_conll_mention, mention)
-                    # flag = 0
+                        # if flag == 1:
+                        #     print(cur_conll_m_id, cur_conll_mention, mention)
+                        # flag = 0
 
-                    cur_conll_m_id += 1
-                    break
-                else:
-                    # print(cur_conll_m_id, cur_conll_mention, mention)
-                    # flag = 1
-                    cur_conll_m_id += 1
+                        cur_conll_m_id += 1
+                        break
+                    else:
+                        # print(cur_conll_m_id, cur_conll_mention, mention)
+                        # flag = 1
+                        cur_conll_m_id += 1
 
 
 class CoNLLDataset:
@@ -183,7 +192,7 @@ class CoNLLDataset:
         # path = '/home/juyeon/github/cholan-advanced/data/conll'
         print('load conll')
         read_conll_file(self.train, conll_path + '/aida_train.txt')
-        read_conll_file(self.testB, conll_path + '/testa_testb_aggregate_original')
+        read_conll_file(self.testB, conll_path + '/aida_testb.txt')
         read_conll_file(self.msnbc, conll_path + '/msnbc.conll')
         read_conll_file(self.ace2004, conll_path + '/ace2004.conll')
         read_conll_file(self.aquaint, conll_path + '/aquaint.conll')
