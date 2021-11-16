@@ -14,11 +14,17 @@ def train():
     with open('positive.txt', 'r') as f:
         for line in f:
             line = line.strip().split('\t')
-            data.append(InputExample(texts=[line[0], line[2]], label=0.8))
+            try:
+                data.append(InputExample(texts=[line[0], line[2]], label=0.8))
+            except:
+                continue
     with open('negative.txt', 'r') as f:
         for line in f:
             line = line.strip().split('\t')
-            data.append(InputExample(texts=[line[0], line[2]], label=0.3))
+            try:
+                data.append(InputExample(texts=[line[0], line[2]], label=0.3))
+            except:
+                continue
 
     dataset = Dataset()
     dataloader = DataLoader(dataset, batch_size=128)
