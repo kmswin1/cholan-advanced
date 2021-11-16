@@ -1,6 +1,6 @@
 from torch.utils.data import DataLoader
 from iter_dataset import Dataset
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, InputExample, losses
 import torch
 import numpy as np
 from transformers import BertTokenizer, BertModel
@@ -10,12 +10,29 @@ def train():
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     bert = BertModel.from_pretrained('bert-base-uncased')
     model = SentenceTransformer('distilbert-base-nli-mean-tokens')
+    data = []
+    with open('positive.txt', 'r') as f:
+        for line in f:
+            line = line.strip().split('\t')
+            data.append(InputExample(texts=[line[0], line[1]], label=0.8))
+    with open('negative.txt', 'r') as f:
+        for line in f:
+            line = line.strip().split('\t')
+            data.append(InputExample(texts=[line[0], line[1]], label=0.3))
+
     dataset = Dataset()
     dataloader = DataLoader(dataset, batch_size=128)
+    # Define your train dataset, the dataloader and the train loss
+    train_dataloader = DataLoader(data, shuffle=True, batch_size=16)
+    train_loss = losses.CosineSimilarityLoss(model)
+
+    # Tune the model
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=100, warmup_steps=100)
+
     criterion = torch.nn.BCELoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
-    for i, batch_data in enumerate(dataloader):
+    '''for i, batch_data in enumerate(dataloader):
         optimizer.zero_grad()
         mention, sentence, gold = batch_data
         negative = np.random.choice(dataset.id2candidate, 1)[0]
@@ -37,6 +54,6 @@ def train():
         loss.backward()
         optimizer.step()
 
-        print (loss.item())
+        print (loss.item())'''
 
 train()
