@@ -100,3 +100,5 @@ def evaluate():
             if meta['gold'][0] in t:
                 cnt += 1
     print(cnt / tot)
+
+evaluate()
